@@ -1,6 +1,5 @@
 'use client';
 
-import Link from 'next/link';
 import { motion } from 'framer-motion';
 
 const navItems = ['Home', 'About', 'Projects', 'Skills', 'Contact'];
