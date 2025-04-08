@@ -31,7 +31,7 @@ export default function About() {
           viewport={{ once: true }}
           className="flex items-center justify-center"
         >
-          <Image
+          <img
             src="/profile-pic.png"
             alt="Aman Full Stack"
             className="rounded-2xl shadow-lg w-72 h-72 object-cover border-4 border-blue-200"

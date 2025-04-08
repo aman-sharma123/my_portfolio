@@ -12,7 +12,7 @@ export default function Hero() {
                 transition={{ duration: 0.6 }}
                 className="text-4xl md:text-6xl font-extrabold bg-gradient-to-r from-blue-500 to-purple-600 text-transparent bg-clip-text"
             >
-                Hi, I’m Aman
+                Hi, I’m Aman Sharma
             </motion.h1>
 
             <motion.p
@@ -21,7 +21,7 @@ export default function Hero() {
                 transition={{ delay: 0.4, duration: 0.6 }}
                 className="mt-4 text-lg md:text-xl text-gray-600 max-w-xl"
             >
-                A Fresher Full Stack Developer passionate about building sleek web experiences.
+                An Aspiring Full Stack Developer passionate about building sleek web experiences.
             </motion.p>
 
             <motion.div
