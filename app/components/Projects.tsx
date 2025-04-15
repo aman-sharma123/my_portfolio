@@ -7,7 +7,7 @@ const projects = [
     title: 'Dev Portfolio Website',
     description: 'Sleek personal portfolio built with Next.js, TailwindCSS, and Framer Motion.',
     tech: ['Next.js', 'TailwindCSS', 'Framer Motion'],
-    link: 'https://yourportfolio.com',
+    link: 'https://my-portfolio-chi-beryl-50.vercel.app/',
     github: 'https://github.com/aman-sharma123/my_portfolio.git',
   },
   {
