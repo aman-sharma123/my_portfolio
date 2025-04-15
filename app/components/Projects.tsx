@@ -7,16 +7,23 @@ const projects = [
     title: 'Dev Portfolio Website',
     description: 'Sleek personal portfolio built with Next.js, TailwindCSS, and Framer Motion.',
     tech: ['Next.js', 'TailwindCSS', 'Framer Motion'],
-    link: 'https://yourportfolio.com', // Replace with your link
-    github: 'https://github.com/yourgithub/portfolio',
+    link: 'https://yourportfolio.com',
+    github: 'https://github.com/aman-sharma123/my_portfolio.git',
   },
   {
-    title: 'Anime Tracker App',
-    description: 'A full-stack web app to track anime watched, built using MERN stack.',
-    tech: ['MongoDB', 'Express', 'React', 'Node.js'],
-    link: '#',
-    github: '#',
+    title: 'AI Content Generator',
+    description: 'A full-stack web app to generate AI content, built using Next.js and TypeScript.',
+    tech: ['PostgreSQL', 'Express', 'React', 'Node.js'],
+    link: 'https://ai-content-generator-aman.vercel.app/',
+    github: 'https://github.com/aman-sharma123/ai-content-generator',
   },
+  {
+    title: 'Simple Weather App',
+    description: 'A basic weather application that fetches real-time weather data using the OpenWeatherMap API. Built with HTML5, CSS3, and JavaScript.',
+    tech: ['HTML5', 'CSS3', 'JavaScript', 'OpenWeatherMap API'],
+    link: 'https://simple-weather-app-rho-ochre.vercel.app/', // <-- Replace with actual link if deployed
+    github: 'https://github.com/aman-sharma123/simple_weather_app.git' // <-- Replace with actual repo link
+  },  
 ];
 
 export default function Projects() {
