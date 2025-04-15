@@ -28,10 +28,10 @@ export default function Education() {
             className="bg-gray-100 dark:bg-gray-800 p-6 rounded-xl shadow-md"
           >
             <h3 className="text-xl font-semibold text-gray-800 dark:text-white">B.Tech in Computer Science</h3>
-            <p className="text-gray-600 dark:text-gray-300">XYZ University, India</p>
-            <p className="text-sm text-gray-500 dark:text-gray-400">2019 - 2023</p>
+            <p className="text-gray-600 dark:text-gray-300">Modern Institute of Technology & Research Centre, Alwar, Rajasthan</p>
+            <p className="text-sm text-gray-500 dark:text-gray-400">2020 - 2024</p>
             <p className="mt-2 text-gray-700 dark:text-gray-200">
-              Graduated with a focus on Full Stack Development, AI, and Game Development fundamentals.
+              Graduated with a focus on Full Stack Development.
             </p>
           </motion.div>
 
